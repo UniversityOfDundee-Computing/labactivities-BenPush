@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald:wght@200;300&family=Playfair+Display&family=Silkscreen&display=swap');
+
+
+body {
+    background-image:url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shroomami-burger-3-1655147735.jpg");
+    background-color:#998888;
+    background-repeat: repeat-y;
+
+}
+h1,h2,h4 {
+    font-family: 'Playfair Display', serif;
+    
+}
+.animate__animated.animate__bounce {
+    --animate-duration: 4s;
+  }
+h1 {
+    font-size: xx-large;
+}
+
+    
+             
+
+section {
+    background-color:#EADEDA;
+    max-width: 720px;
+    margin: auto;
+    animation: mymove 5s infinite;
+}
+footer {
+    background-color:#BFB8AD;
+    max-width: 720px;
+    margin: auto;
+}
+main {
+    
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+
+}
+img {
+    border-radius: 8px;
+}
+li {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+
+}
